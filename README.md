@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm I Chinmaya Murthy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Developer+%7C+DBMS+%26+SQL;Flutter+%7C+Firebase;IoT+%7C+Arduino+%7C+ESP32;Creative+Designer+%7C+UI+%26+Graphics" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=950&lines=BCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Development+%7C+DBMS+%26+SQL;Flutter+%7C+Firebase;IoT+%7C+Arduino+%7C+ESP32;UI+%26+Creative+Design" />
 </p>
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
@@ -14,58 +14,104 @@
 
 ## 🚀 About Me
 - 🎓 BCA student focused on **Software Development + Core CS**
-- 💻 Skilled in **Java, Python, C/C++** and problem-solving
-- 🌐 Build web projects using **HTML, CSS, JavaScript, PHP**
-- 🗄 Work with databases: **SQL, MySQL, Oracle**
+- 💻 Strong in **Java, Python, C/C++** and CS fundamentals
+- 🌐 Build projects using **HTML, CSS, JavaScript, PHP**
+- 🗄 Databases: **SQL, MySQL, Oracle**
 - 📱 Exploring **Flutter** + **Firebase**
-- 🔌 Interested in **IoT/Embedded** using **Arduino & ESP boards**
-- 🧾 **VLE (CSC e-Governance) since 2021** — experience in citizen service delivery, digital workflows & documentation
-
----
-
-## 🧠 Skills Snapshot (Computer/IT Only)
-**Languages:** C, C++, Java, Python, JavaScript, PHP  
-**Web:** HTML, CSS, JavaScript, PHP  
-**Database:** SQL, MySQL, Oracle  
-**CS Fundamentals:** Data Structures, Operating Systems (Windows/Linux), Computer Networking, UNIX Programming, Computer Organization, Software Engineering & SDLC, Digital Logic, Discrete Mathematics, Data Mining (Basics), Numerical Techniques  
-**App/Cloud:** Flutter, Firebase  
-**IoT:** Arduino (Uno/Nano/Mega), ESP32, ESP8266, Sensors & Modules  
-**Tools:** VS Code, Eclipse, Dev C++, Git & GitHub, Ubuntu  
-**Design:** Photoshop 7.0, Photoshop CS6, Illustrator, Adobe ImageReady  
-**Productivity:** MS Word, Excel, PowerPoint  
+- 🔌 IoT/Embedded: **Arduino, ESP32/ESP8266, Sensors**
+- 🧾 Working as a **CSC e-Governance VLE (since 2021)** — hands-on experience with digital services, online systems, and documentation workflows
 
 ---
 
 ## 🧾 Professional Experience
 ### CSC e-Governance (VLE) — **2021 to Present**
-- Citizen service support & digital documentation workflows
-- Handling online portals, form submissions, data entry, verification & printing tasks
-- Strong experience with computer operations, troubleshooting basics & customer handling
+**Experience relevant to IT / software profile:**
+- Worked with **online portals and digital service systems** (end-to-end execution and support)
+- Managed **documentation workflows**: data entry, verification, scanning/printing, and record handling
+- Strong exposure to **process-driven operations**, accuracy, and compliance-style workflows
+- Basic **system troubleshooting** and smooth handling of daily computer operations
+- Communicate with users, understand requirements, and deliver services efficiently (client-facing support)
+
+> CSCs are internet-enabled service access points under the **Digital India** mission that support delivery of e-governance and citizen digital services—this experience strengthens my real-world exposure to digital systems and operational workflows.
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Technical Skills (Computer/CS Only)
+
+### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
 </p>
 
+- C, C++, Java, Python, JavaScript, PHP
+
+### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,firebase,flutter" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php" />
 </p>
 
+- HTML, CSS, JavaScript
+- PHP (backend fundamentals)
+
+### 🗄 Database & DBMS
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,eclipse,ubuntu,arduino" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
+
+- SQL, MySQL
+- Oracle Database
+- Database design & concepts
+
+### 📱 App / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+</p>
+
+- Flutter
+- Firebase
+
+### 🔌 IoT / Embedded
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+- Arduino (Uno / Nano / Mega)
+- ESP32 / ESP8266
+- Sensors & Modules, Microcontroller programming basics
+
+### 🧠 Core CS Fundamentals
+- Data Structures
+- Operating Systems (Windows / Linux)
+- Computer Networking
+- UNIX / Linux Programming
+- Computer Organization
+- Software Engineering & SDLC
+- Digital Logic & Discrete Mathematics
+- Data Mining (Fundamentals)
+- Numerical Techniques
 
 ---
 
-## 🎯 Interests
-- Software Development (Java/Python)
-- Full-Stack Web Development
-- DBMS & SQL
-- Flutter + Firebase Apps
-- IoT Projects (Arduino/ESP + Sensors)
-- UI/Graphic Design
+## 🛠 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,ubuntu" />
+</p>
+
+- VS Code, Eclipse, Dev C++
+- Git & GitHub
+- Ubuntu / Linux
+- MS Word, Excel, PowerPoint
+
+---
+
+## 🎨 Design Tools (Optional but Useful for UI/Branding)
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+</p>
+
+- Adobe Photoshop (7.0, CS6)
+- Adobe Illustrator
+- Adobe ImageReady
 
 ---
 

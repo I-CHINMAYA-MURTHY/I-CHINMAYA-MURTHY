@@ -4,85 +4,65 @@
 
 <h1 align="center">Hi 👋, I'm I Chinmaya Murthy</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=950&lines=BCA+Student+%7C+Aspiring+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Developer+%7C+DBMS+%26+SQL;Flutter+%7C+Firebase;IoT+%7C+Arduino+%7C+ESP32;UI+%2F+Graphic+Design+Support" />
+<h3 align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=900&lines=Aspiring+Software+Developer;BCA+Student+from+India;Java+%7C+Python+%7C+C%2FC%2B%2B;Web+Dev%3A+HTML+%7C+CSS+%7C+JavaScript+%7C+PHP;DBMS%3A+SQL+%7C+MySQL+%7C+Oracle;Flutter+%7C+Firebase+Learner"
+    alt="Typing SVG"
+  />
+</h3>
+
+<img align="right" alt="Web Development" width="380" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=I-CHINMAYA-MURTHY&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/I-CHINMAYA-MURTHY?label=Followers&style=social" />
 </p>
 
-<p align="center">
-  <a href="mailto:chinmayamurthy00@gmail.com">
-    <img src="https://img.shields.io/badge/Email-chinmayamurthy00%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" />
+---
+
+- 🌱 Learning and improving **DSA, Java, Python, Web Development, DBMS**
+- 💬 Ask me about **C/C++, Java, Python, HTML, CSS, JavaScript, PHP, SQL**
+- 🎯 Goal: **Entry-level IT / Software job** (Developer / Web / Support)
+- 📫 Reach me at **[chinmayamurthy00@gmail.com](mailto:chinmayamurthy00@gmail.com)**
+
+---
+
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+  <a href="https://github.com/I-CHINMAYA-MURTHY" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=I-CHINMAYA-MURTHY&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/I-CHINMAYA-MURTHY?label=Followers&style=for-the-badge&color=1f6feb" />
-</p>
-
-<img align="right" alt="Developer working" width="360" src="https://user-images.githubusercontent.com/74038190/212897707-026174ef-f09d-4d41-a4bb-c7266f5420b0.gif"/>
-
----
-
-## 🚀 About Me
-✨ BCA student focused on **Software Development & Core CS**  
-💻 Interested in building projects with **Java, Python, C/C++**  
-🌐 Web development with **HTML, CSS, JavaScript, PHP**  
-🗄 Databases: **SQL, MySQL, Oracle**  
-📱 Exploring **Flutter** + **Firebase**  
-🔌 IoT basics: **Arduino, ESP32/ESP8266, Sensors**  
-🎨 Design support: **Photoshop & Illustrator**
-
----
-
-## 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
+  <!-- Optional: add your links (replace # with your profile URLs) -->
+  <!--
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  -->
 </p>
 
 ---
 
-## 🌐 Web & App Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,firebase,flutter" />
+<h3 align="left">🛠 Languages and Tools</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,php,mysql,firebase,flutter,git,github,vscode,eclipse,ubuntu,arduino" />
 </p>
 
 ---
 
-## 🗄 Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+<h3 align="left">🧠 Core Computer Science</h3>
 
-- SQL / MySQL  
-- Oracle (DB concepts)
-
----
-
-## 🧠 Core CS Knowledge
 - Data Structures (Basics)
 - Operating Systems (Windows / Linux)
 - Computer Networking
 - UNIX / Linux Programming
-- Computer Organization
 - Software Engineering & SDLC
+- Computer Organization
 - Digital Logic & Discrete Mathematics
 - Data Mining (Fundamentals)
 
 ---
 
-## 🛠 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,ubuntu,arduino" />
-</p>
-
-- VS Code / Eclipse / Dev C++
-- Git & GitHub
-- Ubuntu / Linux
-- MS Word / Excel / PowerPoint
-
----
-
-## 🎨 Design Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-</p>
+<h3 align="left">🎨 Design Tools</h3>
 
 - Adobe Photoshop (7.0, CS6)
 - Adobe Illustrator
@@ -90,19 +70,18 @@
 
 ---
 
-## 📫 Contact
-📧 **chinmayamurthy00@gmail.com**
-
----
-
-## 📈 GitHub Stats
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=I-CHINMAYA-MURTHY&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=I-CHINMAYA-MURTHY&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-CHINMAYA-MURTHY&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-CHINMAYA-MURTHY&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=I-CHINMAYA-MURTHY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=I-CHINMAYA-MURTHY&theme=tokyonight&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-CHINMAYA-MURTHY&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---

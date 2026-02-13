@@ -5,57 +5,104 @@
 <h1 align="center">Hi 👋, I'm I Chinmaya Murthy</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+Python+Programmer;Web+Developer;Creative+Designer;BCA+Student+%7C+Tech+Enthusiast+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=750&lines=Software+Developer;Computer+Science+Student;Java+%7C+Python+%7C+Web+Technologies;Tech+Enthusiast+%7C+Problem+Solver+🚀" />
 </h3>
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Passionate about Software & Web Development  
-- 🔥 Interested in Java, Python & Web Technologies  
-- 🎨 Creative designer with graphic tools experience  
-- ⚡ Love learning new technologies & building projects  
+- 🔥 Strong interest in Programming & Computer Science  
+- ⚡ Interested in System Design & Problem Solving  
+- 🚀 Continuously learning new technologies  
 
 ---
 
-## 🛠 Skills & Technologies
-
-### 💻 Programming & Web
+## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,php,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,c,cpp,javascript" />
 </p>
+
+✔ Java  
+✔ Python  
+✔ C / C++  
+✔ JavaScript  
+✔ PHP  
 
 ---
 
-### 🧰 Development Tools
+## 🌐 Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,firebase" />
 </p>
+
+✔ HTML / CSS  
+✔ JavaScript  
+✔ PHP  
+✔ Google Firebase  
+✔ Web Technologies  
 
 ---
 
-### 🎨 Design & Creative Tools
+## 🧠 Computer Science Fundamentals
+
+✔ Data Structures  
+✔ Databases & MySQL  
+✔ Operating Systems  
+✔ Computer Networking  
+✔ Computer Organization  
+✔ UNIX Programming  
+✔ Digital Logic  
+✔ Discrete Mathematics  
+✔ Data Mining  
+✔ Software Engineering  
+
+---
+
+## 🛠 Development Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,flutter,ubuntu,arduino" />
 </p>
 
-✔ Adobe Photoshop 7.0  
-✔ Photoshop CS6  
+✔ VS Code  
+✔ Eclipse  
+✔ Dev C++  
+✔ Flutter  
+✔ Ubuntu / Linux  
+
+---
+
+## 🎨 Design & Productivity Tools
+
+✔ Adobe Photoshop (7.0 & CS6)  
 ✔ Adobe Illustrator  
+✔ MS Excel / Word / PowerPoint  
+✔ Paint  
 
 ---
 
-### 🧾 Productivity Software
+## 🔌 Embedded Systems & Hardware
 
-✔ MS Excel  
-✔ MS Word  
-✔ MS PowerPoint  
+✔ Arduino (Uno / Nano / Mega)  
+✔ ESP32 / ESP8266  
+✔ Sensors & Modules  
+✔ Embedded Programming  
+
+---
+
+## 📚 Academic & Analytical Skills
+
+✔ Quantitative Aptitude  
+✔ Numerical Techniques  
+✔ Economics  
+✔ Environmental Science  
+✔ Ethics & Values  
 
 ---
 

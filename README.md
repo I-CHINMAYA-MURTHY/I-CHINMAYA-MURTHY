@@ -1,20 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=I%20Chinmaya%20Murthy&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:141E30,50:243B55,100:0F2027&text=I%20Chinmaya%20Murthy&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h1 align="center">Hi 👋, I'm I Chinmaya Murthy</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=820&lines=BCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Technologies+%7C+Database+Enthusiast;Embedded+Systems+%7C+Tech+Explorer+🚀" />
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=BCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Developer+%7C+Database+Enthusiast;Embedded+Systems+%7C+IoT+Explorer;Tech+Enthusiast+%7C+Problem+Solver+🚀" />
+</p>
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
-Motivated BCA student with a strong foundation in **software development, programming, databases, and system-level concepts**. Passionate about building applications, exploring technologies, and continuously improving problem-solving skills.
+✨ Passionate about **Software Development & Technology**  
+💻 Focused on Programming, Web & System Concepts  
+⚡ Exploring Modern Tools & Embedded Systems  
+🚀 Constantly learning & building
 
 ---
 
@@ -24,42 +27,35 @@ Motivated BCA student with a strong foundation in **software development, progra
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
 </p>
 
-✔ C / C++ (System & Core Programming)  
-✔ Java (Object-Oriented Development)  
-✔ Python (Application & Logic Development)  
-✔ JavaScript (Dynamic Web Interfaces)  
-✔ PHP (Backend Development)
-
 ---
 
-## 🌐 Web Technologies
+## 🌐 Web & Application Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,firebase,flutter" />
 </p>
 
-✔ HTML / CSS (Frontend Structure & Styling)  
-✔ JavaScript (Interactive UI)  
-✔ PHP (Server-Side Development)  
-✔ Firebase (Backend & Realtime DB)
+✔ Responsive Web Development  
+✔ Backend Fundamentals  
+✔ Firebase Integration  
+✔ Cross-Platform Apps (Flutter)
 
 ---
 
-## 🗄 Database & Data Management
+## 🗄 Database & Data Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-✔ SQL & Query Design  
+✔ SQL & Query Optimization  
 ✔ MySQL  
 ✔ Oracle Database  
-✔ Database Design & Normalization  
-✔ DBMS Concepts
+✔ Database Design Concepts  
 
 ---
 
-## 🧠 Core Computer Science Areas
+## 🧠 Core Computer Science Knowledge
 
 ✔ Data Structures & Algorithms  
 ✔ Operating Systems (Windows / Linux)  
@@ -72,32 +68,29 @@ Motivated BCA student with a strong foundation in **software development, progra
 
 ---
 
-## 🛠 Development Tools & Platforms
+## 🛠 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse,git,github,ubuntu,arduino" />
 </p>
 
-✔ VS Code  
-✔ Eclipse  
-✔ Dev C++  
+✔ VS Code / Eclipse / Dev C++  
 ✔ Git & GitHub  
 ✔ Ubuntu / Linux Environment  
-✔ Version Control & Collaboration
+✔ Arduino Development  
 
 ---
 
-## 🔌 Embedded Systems & Hardware
+## 🔌 Embedded Systems & IoT
 
 ✔ Arduino (Uno / Nano / Mega)  
 ✔ ESP32 / ESP8266  
 ✔ Sensors & Modules  
 ✔ Microcontroller Programming  
-✔ Hardware Interfacing & IoT Basics  
 
 ---
 
-## 🎨 Design & Productivity Tools
+## 🎨 Design & Productivity
 
 ✔ Adobe Photoshop (7.0 & CS6)  
 ✔ Adobe Illustrator  
@@ -106,22 +99,13 @@ Motivated BCA student with a strong foundation in **software development, progra
 
 ---
 
-## 📚 Academic & Analytical Strengths
-
-✔ Quantitative Aptitude  
-✔ Numerical Techniques  
-✔ Logical & Analytical Thinking  
-✔ Problem Solving  
-
----
-
-## 📫 Contact
+## 📫 Contact Me
 
 📧 **chinmayamurthy00@gmail.com**
 
 ---
 
-## 📊 GitHub Insights
+## 👀 Profile Insights
 
 <p> 
   <img src="https://komarev.com/ghpvc/?username=I-CHINMAYA-MURTHY&label=Profile%20Views&color=0e75b6&style=for-the-badge" /> 
@@ -130,7 +114,7 @@ Motivated BCA student with a strong foundation in **software development, progra
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=I-CHINMAYA-MURTHY&theme=tokyo-night&hide_border=true" width="95%"/>
@@ -138,11 +122,19 @@ Motivated BCA student with a strong foundation in **software development, progra
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=I-CHINMAYA-MURTHY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=I-CHINMAYA-MURTHY&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=I-CHINMAYA-MURTHY&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
 </p>
 
 ---

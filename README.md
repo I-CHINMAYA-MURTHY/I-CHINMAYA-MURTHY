@@ -5,7 +5,13 @@
 <h1 align="center">Hi 👋, I'm I Chinmaya Murthy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=950&lines=BCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Development+%7C+DBMS+%26+SQL;Flutter+%7C+Firebase;IoT+%7C+Arduino+%7C+ESP32;UI+%26+Creative+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=980&lines=BCA+Student+%7C+Aspiring+Software+Engineer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Development+%7C+DBMS+%26+SQL;Flutter+%7C+Firebase;IoT+%7C+Arduino+%7C+ESP32;CSC+e-Governance+VLE+%7C+Digital+Service+Operations" />
+</p>
+
+<p align="center">
+  <a href="mailto:chinmayamurthy00@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" /></a>
+  <img src="https://komarev.com/ghpvc/?username=I-CHINMAYA-MURTHY&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/I-CHINMAYA-MURTHY?label=Followers&style=for-the-badge" />
 </p>
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
@@ -13,37 +19,35 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BCA student focused on **Software Development + Core CS**
-- 💻 Strong in **Java, Python, C/C++** and CS fundamentals
-- 🌐 Build projects using **HTML, CSS, JavaScript, PHP**
-- 🗄 Databases: **SQL, MySQL, Oracle**
-- 📱 Exploring **Flutter** + **Firebase**
-- 🔌 IoT/Embedded: **Arduino, ESP32/ESP8266, Sensors**
-- 🧾 Working as a **CSC e-Governance VLE (since 2021)** — hands-on experience with digital services, online systems, and documentation workflows
+🎓 BCA student building a strong base in **software development + core computer science**.  
+💻 Interested in **Java/Python development**, **web apps**, **databases**, and **automation**.  
+🧾 Working as a **CSC e-Governance VLE (since 2021)** — real-world experience with **online systems, digital workflows, and citizen service operations**.
+
+✅ **Open to:** Internships / Entry-level IT roles (Software / Web / Support / Operations)
 
 ---
 
-## 🧾 Professional Experience
+## 🧾 Professional Experience (IT-Relevant)
 ### CSC e-Governance (VLE) — **2021 to Present**
-**Experience relevant to IT / software profile:**
-- Worked with **online portals and digital service systems** (end-to-end execution and support)
-- Managed **documentation workflows**: data entry, verification, scanning/printing, and record handling
-- Strong exposure to **process-driven operations**, accuracy, and compliance-style workflows
-- Basic **system troubleshooting** and smooth handling of daily computer operations
-- Communicate with users, understand requirements, and deliver services efficiently (client-facing support)
+- Operate and support **online portals & digital service systems** end-to-end  
+- Manage **documentation workflows**: data entry, verification, scanning/printing, and record handling  
+- Strong exposure to **process-driven operations**, accuracy, and service delivery (customer support)  
+- Hands-on computer operations and basic troubleshooting in daily production work  
+- Also authorized for **Rail e-ticketing services** through CSC (IRCTC-enabled booking operations)
 
-> CSCs are internet-enabled service access points under the **Digital India** mission that support delivery of e-governance and citizen digital services—this experience strengthens my real-world exposure to digital systems and operational workflows.
+> I present this experience as **Digital Service Operations / Workflow Handling**, which is highly relevant to IT support, operations, and system-based roles.
 
 ---
 
-## 🧠 Technical Skills (Computer/CS Only)
+## 🧠 Technical Skills
 
-### 💻 Programming Languages
+### 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php" />
 </p>
 
-- C, C++, Java, Python, JavaScript, PHP
+- **C, C++, Java, Python, JavaScript, PHP**
+- Data Structures (fundamentals)
 
 ### 🌐 Web Development
 <p>
@@ -51,44 +55,35 @@
 </p>
 
 - HTML, CSS, JavaScript
-- PHP (backend fundamentals)
+- PHP (backend basics)
 
-### 🗄 Database & DBMS
+### 🗄 Database
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-- SQL, MySQL
-- Oracle Database
-- Database design & concepts
+- SQL, MySQL, Oracle (basics + DB concepts)
 
 ### 📱 App / Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 </p>
 
-- Flutter
-- Firebase
+- Flutter, Firebase (integration basics)
 
 ### 🔌 IoT / Embedded
 <p>
   <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-- Arduino (Uno / Nano / Mega)
-- ESP32 / ESP8266
-- Sensors & Modules, Microcontroller programming basics
+- Arduino (Uno / Nano / Mega), ESP32 / ESP8266, Sensors & Modules
 
-### 🧠 Core CS Fundamentals
-- Data Structures
-- Operating Systems (Windows / Linux)
-- Computer Networking
-- UNIX / Linux Programming
-- Computer Organization
-- Software Engineering & SDLC
-- Digital Logic & Discrete Mathematics
-- Data Mining (Fundamentals)
-- Numerical Techniques
+### 🧠 Core CS
+- Operating Systems (Windows/Linux), UNIX Programming  
+- Computer Networking, Computer Organization  
+- Software Engineering & SDLC  
+- Digital Logic & Discrete Mathematics  
+- Data Mining (fundamentals)
 
 ---
 
@@ -100,23 +95,29 @@
 - VS Code, Eclipse, Dev C++
 - Git & GitHub
 - Ubuntu / Linux
-- MS Word, Excel, PowerPoint
+- MS Excel / Word / PowerPoint
 
 ---
 
-## 🎨 Design Tools (Optional but Useful for UI/Branding)
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
-</p>
+## 🏅 Certifications & Learning
+**Verified / Official**
+- CSC e-Governance: **VLE / Common Service Center Registration**  
+- CSC Academy / ISB (Srini Raju Centre): **Certificate Course in Entrepreneurship (CCE)**
 
-- Adobe Photoshop (7.0, CS6)
-- Adobe Illustrator
-- Adobe ImageReady
+**Online Learning (Coursera)**
+- **Meta Front-End Developer** (learning path) — *Intro course completed*  
+- **Google Cybersecurity** (in progress)  
+- **Google Data Analytics / Meta Data Analyst / Microsoft Data Visualization** (learning paths)
 
 ---
 
-## 📫 Contact
-📧 **chinmayamurthy00@gmail.com**
+## 📌 Featured Projects (Add your best repos here)
+> Replace the placeholders with your project links.
+
+- 🔹 **Project 1:** Your best Java/Python app — `link`
+- 🔹 **Project 2:** Web app (HTML/CSS/JS/PHP) — `link`
+- 🔹 **Project 3:** Database/SQL project — `link`
+- 🔹 **Project 4:** Arduino/ESP32 IoT project — `link`
 
 ---
 
@@ -135,11 +136,8 @@
 
 ---
 
-## 👀 Profile Views & Followers
-<p>
-  <img src="https://komarev.com/ghpvc/?username=I-CHINMAYA-MURTHY&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/I-CHINMAYA-MURTHY?label=Followers&style=for-the-badge" />
-</p>
+## 📫 Contact
+📧 **chinmayamurthy00@gmail.com**
 
 ---
 

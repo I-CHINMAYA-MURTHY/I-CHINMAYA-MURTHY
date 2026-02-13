@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm I Chinmaya Murthy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Developer+%7C+DBMS+%26+SQL;Flutter+%7C+Firebase;IoT+%7C+Arduino+%7C+ESP32;Creative+Designer+%7C+Photoshop+%26+Illustrator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=BCA+Student+%7C+Software+Developer;Java+%7C+Python+%7C+C+%2F+C%2B%2B;Web+Developer+%7C+DBMS+%26+SQL;Flutter+%7C+Firebase;IoT+%7C+Arduino+%7C+ESP32;Creative+Designer+%7C+UI+%26+Graphics" />
 </p>
 
 <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
@@ -13,27 +13,34 @@
 ---
 
 ## 🚀 About Me
-- 🎓 BCA Student focused on **Software Development + Core CS**
-- 💻 Comfortable with **Java, Python, C/C++** and problem-solving
+- 🎓 BCA student focused on **Software Development + Core CS**
+- 💻 Skilled in **Java, Python, C/C++** and problem-solving
 - 🌐 Build web projects using **HTML, CSS, JavaScript, PHP**
 - 🗄 Work with databases: **SQL, MySQL, Oracle**
-- 📱 Exploring **Flutter** and **Firebase**
+- 📱 Exploring **Flutter** + **Firebase**
 - 🔌 Interested in **IoT/Embedded** using **Arduino & ESP boards**
-- 🎨 Strong in **Graphic & Visual Design** tools
+- 🧾 **VLE (CSC e-Governance) since 2021** — experience in citizen service delivery, digital workflows & documentation
 
 ---
 
-## 🧠 Skills Snapshot (Efficient)
+## 🧠 Skills Snapshot (Computer/IT Only)
 **Languages:** C, C++, Java, Python, JavaScript, PHP  
 **Web:** HTML, CSS, JavaScript, PHP  
 **Database:** SQL, MySQL, Oracle  
-**CS Fundamentals:** DSA, OS, Networking, UNIX Programming, Computer Organization, SDLC, Digital Logic, Discrete Math, Data Mining, Numerical Techniques  
+**CS Fundamentals:** Data Structures, Operating Systems (Windows/Linux), Computer Networking, UNIX Programming, Computer Organization, Software Engineering & SDLC, Digital Logic, Discrete Mathematics, Data Mining (Basics), Numerical Techniques  
 **App/Cloud:** Flutter, Firebase  
 **IoT:** Arduino (Uno/Nano/Mega), ESP32, ESP8266, Sensors & Modules  
 **Tools:** VS Code, Eclipse, Dev C++, Git & GitHub, Ubuntu  
 **Design:** Photoshop 7.0, Photoshop CS6, Illustrator, Adobe ImageReady  
-**Productivity:** MS Word, Excel, PowerPoint, Paint  
-**Academics:** Quantitative Aptitude, Economics, Environmental Science, Ethics & Values  
+**Productivity:** MS Word, Excel, PowerPoint  
+
+---
+
+## 🧾 Professional Experience
+### CSC e-Governance (VLE) — **2021 to Present**
+- Citizen service support & digital documentation workflows
+- Handling online portals, form submissions, data entry, verification & printing tasks
+- Strong experience with computer operations, troubleshooting basics & customer handling
 
 ---
 

@@ -2,12 +2,10 @@
      TOP BANNER (Generated)
 ======================== -->
 <p align="center">
-  <img src="banner.png" alt="I CHINMAYA MURTHY Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/I-CHINMAYA-MURTHY/I-CHINMAYA-MURTHY/main/banner.png" alt="I CHINMAYA MURTHY Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=I%20CHINMAYA%20MURTHY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20DEVELOPER%20%7C%20JAVA%20%7C%20WEB%20DEVELOPMENT&descSize=18&descAlignY=60" />
-</p>
+
 
 
 <!-- =======================

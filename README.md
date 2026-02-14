@@ -1,9 +1,12 @@
 <!-- =======================
      TOP BANNER (Generated)
 ======================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=I%20Chinmaya%20Murthy&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Developer%20%7C%20BCA%20Student%20%7C%20Web%20%26%20App%20Development&descSize=18&descAlignY=60" />
-</p>
+<h1 align="center">Hi 👋, I'm I Chinmaya Murthy</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=Aspiring+Software+Developer;Java+Developer;Full+Stack+Web+Developer" />
+</h3>
+
 
 <!-- =======================
      INTRO

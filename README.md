@@ -2,9 +2,8 @@
      TOP BANNER (Generated)
 ======================== -->
 <p align="center">
-  <img src="banner.png.png" alt="I CHINMAYA MURTHY Banner" width="1000" />
+  <img src="banner.png.png" alt="I CHINMAYA MURTHY Banner" width="900" />
 </p>
-
 
 
 
